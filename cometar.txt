@@ -1,0 +1,9 @@
+git push  origin -> untuk mengepush sesuai dengan data terakhir nya
+git pull origin -> untuk ngengambil data origin 
+
+1. masuk ke folger nya
+2. git clone dan copas linknya ke CMD
+3.  git add . untuk menambahkan data
+4. git commit -m "komentar"
+5. Gitu push -> untuk meng upload datanya ke git hub
+atau git pull ->  unutk mendowload repository teman
